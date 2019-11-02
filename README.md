@@ -49,8 +49,8 @@ rowspan="2"
 style="width:80%">
 <h2>Armastusega...</h2>
 
-<p style="text-indent:20px">
-Tere. Minu nimi on Maria. Mu õel Aleksandral ja minul tekkis huvitav idee luua enda oma sait, et jagada Teiega meie igapäeva elu eredamaid ja õpetuslikke hetki. </p>
+<p style="text-indent:20px"><em>
+Tere. Minu nimi on Maria. Mu õel Aleksandral ja minul tekkis huvitav idee luua enda oma sait, et jagada Teiega meie igapäeva elu eredamaid ja õpetuslikke hetki. </em></p>
 
 <p style="text-indent:20px">
 Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. </p>
@@ -65,10 +65,10 @@ Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. <
 <a href="">
 
 <img src="https://scontent.ftll1-1.fna.fbcdn.net/v/t1.0-9/28168564_1918514194847053_3773272420317553427_n.jpg?_nc_cat=104&_nc_oc=AQlQLymTN_R2N8ma5RNKIum-UJifpQxE7OkGw8oWvslKkEgEG1BoVUPnhSaNKYrR7Uk&_nc_ht=scontent.ftll1-1.fna&oh=d3cfb78ecc762980dfebed3fa6f8c20b&oe=5E50C806" width="50" height="33">
-<!--Название страницы
-style="margin-left:5px;" - отступ названия от маркера-->
+
+
 <span style="margin-left:5px;">Minust</span></a>
-<!--Закрываем абзац-->
+
 </p>
 <p>
 <a href="">
@@ -80,35 +80,32 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <img src="avatar.jpg" width="50" height="33">
 <span style="margin-left:5px;">Sport ja toitumine</span></a>
 </p>
-<!--Закрываем строку Меню-->
+
 </td>
 </tr>
-<!--Создаём строку с дополнительной информацией-->
+
 <tr>
-<!--Ячейка с дополнительной информацией-->
+
 <td
 bgcolor="blue"
 align="center">
 <h3>Kontakt:</h3>
 <p>maria@mail.ee</p>
-<!--Закрываем ячейку с общей информацией
-и таблицу основного контента-->
+
 </td>
 </tr>
 </table>
 
-<!--ПОДВАЛ-->
 
-<!--Создаём таблицу подвала-->
 <table
 border="1"
 bgcolor="red"
 height="100"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
-<!--Создаём строку.-->
+
 <tr>
-<!--Создаём столбец-->
+
 <th>
 <h3>Täiendamisel</h3>
 
