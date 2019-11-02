@@ -3,7 +3,7 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
-<title>Название сайта</title>
+<title>mariakruglova.github.io</title>
 </head>
 <body>
 
@@ -20,7 +20,7 @@ style="width:60%;">
 <table
 border="1"
 background="slide1.jpg"
-bgcolor="#7FFFD4"
+bgcolor="pink"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
 
@@ -29,7 +29,7 @@ style="width:100%; border-radius:5px;">
 <th>
 
 <h1>Maria Kruglova</h1>
-<h3>Love and be loved :) </h3>
+<h3><em>Love and be loved :) </em></h3>
 
 </th>
 </tr>
@@ -60,14 +60,14 @@ Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. <
 
 
 
-<td bgcolor="#e6e6fa">
+<td bgcolor="powderblue">
 <h3>Меню</h3>
 
 <p>
 
 <a href="">
 
-<img src="http://trueimages.ru/img/00/06/f4fffdb5.png">
+<img src="slide.2">
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
 <span style="margin-left:5px;">Minust</span></a>
@@ -90,10 +90,10 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <tr>
 <!--Ячейка с дополнительной информацией-->
 <td
-bgcolor="#e6e6fa"
+bgcolor="blue"
 align="center">
-<h3>Veel huvitavat</h3>
-<p>Kontakt</p>
+<h3>Kontakt:</h3>
+<p>maria@mail.ee</p>
 <!--Закрываем ячейку с общей информацией
 и таблицу основного контента-->
 </td>
@@ -105,7 +105,7 @@ align="center">
 <!--Создаём таблицу подвала-->
 <table
 border="1"
-bgcolor="#7FFFD4"
+bgcolor="red"
 height="100"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
