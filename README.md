@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="eng">
 <head>
 <meta charset="utf-8" />
 <title>mariakruglova.github.io</title>
@@ -38,7 +38,7 @@ style="width:100%; border-radius:5px;">
 
 <table
 border="1"
-bgcolor="#e6e6fa"
+bgcolor="green"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
 
@@ -75,12 +75,12 @@ style="margin-left:5px;" - отступ названия от маркера-->
 </p>
 <p>
 <a href="">
-<img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
+<img src="slide1">
 <span style="margin-left:5px;">Rasedus ja sünnitus</span;></a>
 </p>
 <p>
 <a href="">
-<img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
+<img src="avatar.jpg">
 <span style="margin-left:5px;">Sport ja toitumine</span></a>
 </p>
 <!--Закрываем строку Меню-->
