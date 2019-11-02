@@ -61,7 +61,7 @@ Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. <
 
 
 <td bgcolor="powderblue">
-<h3>Меню</h3>
+<h3>Sisu</h3>
 
 <p>
 
