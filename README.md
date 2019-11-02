@@ -29,7 +29,7 @@ style="width:100%; border-radius:5px;">
 <th>
 
 <h1>Maria Kruglova</h1>
-<h3>Varsti tuleb siia erinev huvitav informatsioon, pildid ja videod. Kõik on tegemisel :) </h3>
+<h3>Love and be loved :) </h3>
 
 </th>
 </tr>
@@ -70,18 +70,18 @@ Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. <
 <img src="http://trueimages.ru/img/00/06/f4fffdb5.png">
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
-<span style="margin-left:5px;">Страница</span></a>
+<span style="margin-left:5px;">Minust</span></a>
 <!--Закрываем абзац-->
 </p>
 <p>
 <a href="">
 <img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
-<span style="margin-left:5px;">Страница 1</span;></a>
+<span style="margin-left:5px;">Rasedus ja sünnitus</span;></a>
 </p>
 <p>
 <a href="">
 <img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
-<span style="margin-left:5px;">Страница 2</span></a>
+<span style="margin-left:5px;">Sport ja toitumine</span></a>
 </p>
 <!--Закрываем строку Меню-->
 </td>
@@ -92,8 +92,8 @@ style="margin-left:5px;" - отступ названия от маркера-->
 <td
 bgcolor="#e6e6fa"
 align="center">
-<h3>Minust</h3>
-<p>üldinfo</p>
+<h3>Veel huvitavat</h3>
+<p>Kontakt</p>
 <!--Закрываем ячейку с общей информацией
 и таблицу основного контента-->
 </td>
