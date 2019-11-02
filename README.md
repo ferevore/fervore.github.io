@@ -67,7 +67,7 @@ Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. <
 
 <a href="">
 
-<img src="slide.2">
+<img src="https://scontent.ftll1-1.fna.fbcdn.net/v/t1.0-9/28168564_1918514194847053_3773272420317553427_n.jpg?_nc_cat=104&_nc_oc=AQlQLymTN_R2N8ma5RNKIum-UJifpQxE7OkGw8oWvslKkEgEG1BoVUPnhSaNKYrR7Uk&_nc_ht=scontent.ftll1-1.fna&oh=d3cfb78ecc762980dfebed3fa6f8c20b&oe=5E50C806">
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
 <span style="margin-left:5px;">Minust</span></a>
@@ -75,7 +75,7 @@ style="margin-left:5px;" - отступ названия от маркера-->
 </p>
 <p>
 <a href="">
-<img src="https://scontent.ftll1-1.fna.fbcdn.net/v/t1.0-9/15622695_1444228738942270_4545725534158853156_n.jpg?_nc_cat=104&_nc_oc=AQkc_CuQGqPkZnAI9r8MYg5gFgyD0oEXTpM3UOz8oUpKlK6ParKL3onQWyyZ3iQaUE4&_nc_ht=scontent.ftll1-1.fna&oh=5c4c39817902fd42812b7b996bb7b092&oe=5E547D6A" width="50" height="33">
+<img src="https://scontent.ftll1-1.fna.fbcdn.net/v/t1.0-9/13775596_1213752795323200_7866732541317639446_n.jpg?_nc_cat=109&_nc_oc=AQkpUi924Jx8X4UGZKzhlJwwVOKfGij21M7GLp0oJRHeOoKPTlPdV_F3ZeBRQPLl1L8&_nc_ht=scontent.ftll1-1.fna&oh=a55c60c4a9805d9a91560bd8c0e3ee05&oe=5E4BCBB9" width="50" height="33">
 <span style="margin-left:5px;">Rasedus ja sünnitus</span;></a>
 </p>
 <p>
