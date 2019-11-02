@@ -52,8 +52,8 @@ style="width:80%">
 <p style="text-indent:20px"><em>
 Tere. Minu nimi on Maria. Mu õel Aleksandral ja minul tekkis huvitav idee luua enda oma sait, et jagada Teiega meie igapäeva elu eredamaid ja õpetuslikke hetki. </em></p>
 
-<p style="text-indent:20px">
-Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. </p>
+<p style="text-indent:20px"><em>
+Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. </em></p>
 
 </td>
 
