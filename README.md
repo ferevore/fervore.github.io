@@ -67,7 +67,7 @@ Praegu on antud sait tegemisel, kuid väga varsti täitub see huvitava sisuga. <
 
 <a href="">
 
-<img src="https://scontent.ftll1-1.fna.fbcdn.net/v/t1.0-9/28168564_1918514194847053_3773272420317553427_n.jpg?_nc_cat=104&_nc_oc=AQlQLymTN_R2N8ma5RNKIum-UJifpQxE7OkGw8oWvslKkEgEG1BoVUPnhSaNKYrR7Uk&_nc_ht=scontent.ftll1-1.fna&oh=d3cfb78ecc762980dfebed3fa6f8c20b&oe=5E50C806">
+<img src="https://scontent.ftll1-1.fna.fbcdn.net/v/t1.0-9/28168564_1918514194847053_3773272420317553427_n.jpg?_nc_cat=104&_nc_oc=AQlQLymTN_R2N8ma5RNKIum-UJifpQxE7OkGw8oWvslKkEgEG1BoVUPnhSaNKYrR7Uk&_nc_ht=scontent.ftll1-1.fna&oh=d3cfb78ecc762980dfebed3fa6f8c20b&oe=5E50C806" width="50" height="33">
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
 <span style="margin-left:5px;">Minust</span></a>
