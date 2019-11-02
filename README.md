@@ -75,12 +75,12 @@ style="margin-left:5px;" - отступ названия от маркера-->
 </p>
 <p>
 <a href="">
-<img src="slide1">
+<img src="slide1" width="50" height="33">
 <span style="margin-left:5px;">Rasedus ja sünnitus</span;></a>
 </p>
 <p>
 <a href="">
-<img src="avatar.jpg">
+<img src="avatar.jpg" width="50" height="33">
 <span style="margin-left:5px;">Sport ja toitumine</span></a>
 </p>
 <!--Закрываем строку Меню-->
