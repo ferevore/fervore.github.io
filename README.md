@@ -75,7 +75,7 @@ style="margin-left:5px;" - отступ названия от маркера-->
 </p>
 <p>
 <a href="">
-<img src="slide1" width="50" height="33">
+<img src="https://scontent.ftll1-1.fna.fbcdn.net/v/t1.0-9/15622695_1444228738942270_4545725534158853156_n.jpg?_nc_cat=104&_nc_oc=AQkc_CuQGqPkZnAI9r8MYg5gFgyD0oEXTpM3UOz8oUpKlK6ParKL3onQWyyZ3iQaUE4&_nc_ht=scontent.ftll1-1.fna&oh=5c4c39817902fd42812b7b996bb7b092&oe=5E547D6A" width="50" height="33">
 <span style="margin-left:5px;">Rasedus ja sünnitus</span;></a>
 </p>
 <p>
